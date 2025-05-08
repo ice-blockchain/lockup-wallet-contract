@@ -17,8 +17,8 @@ func=${CRYPTO_EXEC_PATH}/func
 inc=${CRYPTO_SRC_PATH}/fift/lib/:${CRYPTO_SRC_PATH}/smartcont/
 
 base_file=vesting-wallet # read private key from base_file.pk, save address in base_file.addr
-start_time=1736208000 # unix time start time of the vesting
-duration_time=141966000 # duration of the vesting in seconds
+start_time=1744095000 # unix time start time of the vesting
+duration_time=134079000 # duration of the vesting in seconds
 unlock_period=7887000 # period to unlock a portion of the vesting amount in seconds
 cliff_period=0 # delay first unlock period by specific time in seconds
 vesting_amount=2356278478 # vesting amount in Grams
